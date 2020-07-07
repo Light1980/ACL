@@ -8446,7 +8446,8 @@
 (^|\.)cdn\.branch\.io$
 (^|\.)cdn\.jsdelivr\.net$
 (^|\.)cdn\.segment\.com$
-(^|\.)course\.edx\.org$
+(^|\.)courses\.edx\.org$
+(^|\.)edx-cdn\.org$
 (^|\.)edx\.org$
 (^|\.)coursera\.org$
 (^|\.)bit\.no\.com$
